@@ -1,0 +1,13 @@
+[user]
+name = Shogo Takeuchi
+email = 56812464+ShogoTakeuchi@users.noreply.github.com
+
+[push]
+default = simple
+
+[alias]
+st = status
+
+[core]
+editor = emacs
+excludesfile = /Users/shogo/.gitignore_global
